@@ -15,7 +15,6 @@ function HomePage() {
       <div className="sweet-list">
         {sweets.map(s => (
           <div key={s.id} className="sweet-card">
-            {/* Make sure to have an image like /kaju-katli.jpeg in your public folder */}
             <img src="/kaju-katli.jpeg" alt={s.name} className="sweet-img" />
             <h2>{s.name}</h2>
             <p>{s.category}</p>
