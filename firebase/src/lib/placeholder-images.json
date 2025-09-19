@@ -1,0 +1,112 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gulab-jamun",
+      "description": "Soft, spongy, milk-solid balls soaked in a light and sweet sugar syrup flavored with rose water.",
+      "imageUrl": "https://picsum.photos/seed/10/600/400",
+      "imageHint": "gulab jamun"
+    },
+    {
+      "id": "jalebi",
+      "description": "Crispy, chewy, spiral-shaped sweets made from fermented batter, deep-fried and soaked in saffron syrup.",
+      "imageUrl": "https://picsum.photos/seed/11/600/400",
+      "imageHint": "jalebi"
+    },
+    {
+      "id": "besan-ladoo",
+      "description": "A popular Indian sweet made from gram flour, powdered sugar, and ghee, often flavored with cardamom.",
+      "imageUrl": "https://picsum.photos/seed/12/600/400",
+      "imageHint": "besan ladoo"
+    },
+    {
+      "id": "kaju-katli",
+      "description": "A diamond-shaped sweet made from cashew nuts, sugar, and ghee. A classic festive delicacy.",
+      "imageUrl": "https://picsum.photos/seed/13/600/400",
+      "imageHint": "kaju katli"
+    },
+    {
+      "id": "rasmalai",
+      "description": "Soft paneer discs soaked in thickened, sweetened and flavored milk, garnished with nuts.",
+      "imageUrl": "https://picsum.photos/seed/14/600/400",
+      "imageHint": "rasmalai"
+    },
+    {
+      "id": "mysore-pak",
+      "description": "A rich sweet dish from Mysore made of gram flour, ghee, sugar and water, with a porous texture.",
+      "imageUrl": "https://picsum.photos/seed/15/600/400",
+      "imageHint": "mysore pak"
+    },
+    {
+      "id": "peda",
+      "description": "A semi-soft sweet made from khoa, sugar, and traditional flavorings like cardamom and saffron.",
+      "imageUrl": "https://picsum.photos/seed/16/600/400",
+      "imageHint": "peda sweet"
+    },
+    {
+      "id": "kulfi",
+      "description": "Traditional Indian ice cream, dense and creamy, often flavored with pistachio, mango, or cardamom.",
+      "imageUrl": "https://picsum.photos/seed/17/600/400",
+      "imageHint": "kulfi ice cream"
+    },
+    {
+      "id": "soan-papdi",
+      "description": "A crisp, flaky and melt-in-your-mouth confection that's popular across the country.",
+      "imageUrl": "https://picsum.photos/seed/18/600/400",
+      "imageHint": "soan papdi"
+    },
+    {
+      "id": "barfi",
+      "description": "An assortment of dense milk-based sweets, often flavored with fruits and nuts.",
+      "imageUrl": "https://picsum.photos/seed/19/600/400",
+      "imageHint": "barfi"
+    },
+    {
+      "id": "gallery-1",
+      "description": "A vibrant display of assorted Indian sweets.",
+      "imageUrl": "https://picsum.photos/seed/20/800/600",
+      "imageHint": "indian sweets"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Close-up of a beautifully garnished Kaju Katli.",
+      "imageUrl": "https://picsum.photos/seed/21/800/600",
+      "imageHint": "kaju katli"
+    },
+    {
+      "id": "gallery-3",
+      "description": "The warm, inviting interior of the sweet shop.",
+      "imageUrl": "https://picsum.photos/seed/22/800/600",
+      "imageHint": "indian cafe"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A halwai (sweet maker) preparing fresh Jalebi.",
+      "imageUrl": "https://picsum.photos/seed/23/800/600",
+      "imageHint": "making jalebi"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A colorful stack of various Barfis.",
+      "imageUrl": "https://picsum.photos/seed/24/800/600",
+      "imageHint": "indian barfi"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Delicious-looking Gulab Jamuns in syrup.",
+      "imageUrl": "https://picsum.photos/seed/25/800/600",
+      "imageHint": "gulab jamun"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Freshly made Ladoos on a tray.",
+      "imageUrl": "https://picsum.photos/seed/26/800/600",
+      "imageHint": "fresh ladoos"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Sticks of creamy Kulfi.",
+      "imageUrl": "https://picsum.photos/seed/27/800/600",
+      "imageHint": "kulfi stick"
+    }
+  ]
+}
