@@ -14,7 +14,7 @@ function Login() {
     axios.post('http://127.0.0.1:8000/api/login/', form)
       .then(res => {
         setMsg('Login successful!');
-        localStorage.setItem('token', res.data.token); // store token for future requests
+        localStorage.setItem('token', res.data.token); 
       })
       .catch(err => setMsg('Login failed. Check credentials!'));
   }
