@@ -1,0 +1,31 @@
+.homepage {
+  background: #fffbe7;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+.sweet-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.sweet-card {
+  background: #fff5cc;
+  border-radius: 1rem;
+  border: 2px solid #efd75e;
+  box-shadow: 0 2px 10px #fce69760;
+  width: 210px;
+  padding: 1rem;
+  transition: transform .2s;
+}
+.sweet-card:hover {
+  transform: scale(1.04);
+  border-color: #ea8903;
+}
+.sweet-img {
+  width: 100%;
+  border-radius: 0.7rem 0.7rem 0 0;
+  margin-bottom: .9rem;
+}
